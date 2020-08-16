@@ -1,4 +1,8 @@
 # PrivacyTips
 Software recommendations for privacy in general 
 
-## teste
+## Android
+
+### Brosers
+#### Brave
+

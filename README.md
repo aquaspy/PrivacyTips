@@ -1,6 +1,48 @@
 # PrivacyTips
 Software recommendations for privacy in general 
 
+## Web services
+
+### Informative websites
+#### <a href="https://tosdr.org/">Didin't read terms of service </a>
+
+In this website you can learn how good or how bad are the terms of service of some service or software that you use. It is very useful, because reading every term of service can be time consuming and you will need to focus to undertand something that are not clear. This site sumarizes everything for you need to know about the term in regards to your privacy.
+
+#### <a href="https://www.privacytools.io/">Privacy Tools </a>
+
+Privacy tools will recommend you software that respect your privacy. They also recommend Operational systems and teach you how to configure some softwares to achieve the best privacy possible.
+
+#### <a href="https://prism-break.org"> Prism Break </a> 
+
+The prism break is another community that stives to provide the best recommendations and suggestions about softwares that respect you and your privacy. 
+
+### Webmails
+
+#### <a href="https://protonmail.com/"> Protonmail </a>
+
+#### <a href="https://www.startmail.com/en/"> Startmail </a>
+
+#### <a href="https://www.fastmail.com/"> Fastmail </a> 
+
+#### <a href="https://tutanota.com/"> Tutanota </a> 
+
+### Video plataform
+ 
+#### <a href="https://lbry.tv/"> LBRY </a>
+
+#### <a href="https://joinpeertube.org/"> Peertube  </a>
+
+### Social Networks
+
+#### <a href="https://joinmastodon.org/"> Mastodon  </a> 
+
+#### <a href="https://pixelfed.org/"> Pixelfed </a>
+
+#### <a href="https://www.minds.com/"> Minds </a>
+
+<a href="https://www.techrepublic.com/article/is-minds-the-social-networking-site-weve-been-waiting-for/" Learn more about minds</a>
+
+
 ## Android
 
 ### Browsers
@@ -19,6 +61,8 @@ Firefox preview is the new firefox for mobile, the engine "fenix" was made from 
 #### Aegis
 
 #### FreeOTP
+
+#### andOTP
 
 
 ### Stores to downloads apps

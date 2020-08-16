@@ -71,7 +71,7 @@ Firefox preview is the new firefox for mobile, the engine "fenix" was made from 
 
 #### F-droid
 
-#### <a href="https://fossdroid.com/"> FossDroid(website only)<\a> 
+#### <a href="https://fossdroid.com/"> FossDroid(Website only) </a>
   
 ### Youtube alternative apps
 

@@ -40,7 +40,7 @@ The prism break is another community that stives to provide the best recommendat
 
 #### <a href="https://www.minds.com/"> Minds </a>
 
-<a href="https://www.techrepublic.com/article/is-minds-the-social-networking-site-weve-been-waiting-for/"> Learn more about minds</a>
+ <!--- <a href="https://www.techrepublic.com/article/is-minds-the-social-networking-site-weve-been-waiting-for/"> Learn more about minds</a> ! --->
 
 
 ## Android

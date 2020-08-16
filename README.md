@@ -26,7 +26,7 @@ The prism break is another community that stives to provide the best recommendat
 
 #### <a href="https://tutanota.com/"> Tutanota </a> 
 
-### Video plataform
+### Video plataforms
  
 #### <a href="https://lbry.tv/"> LBRY </a>
 
@@ -34,11 +34,11 @@ The prism break is another community that stives to provide the best recommendat
 
 ### Social Networks
 
-#### <a href="https://joinmastodon.org/"> Mastodon  </a> 
+#### <a href="https://joinmastodon.org/"> Mastodon (twitter like)  </a> 
 
-#### <a href="https://pixelfed.org/"> Pixelfed </a>
+#### <a href="https://pixelfed.org/"> Pixelfed (instagram like) </a>
 
-#### <a href="https://www.minds.com/"> Minds </a>
+#### <a href="https://www.minds.com/"> Minds (more or less facebook like) </a>
 
  <!--- <a href="https://www.techrepublic.com/article/is-minds-the-social-networking-site-weve-been-waiting-for/"> Learn more about minds</a> ! --->
 
@@ -75,7 +75,11 @@ Firefox preview is the new firefox for mobile, the engine "fenix" was made from 
   
 ### Youtube alternative apps
 
-#### 
+#### <a href="https://vanced.app/"> Youtube Vanced </a>
+Youtube vanced is very similar to the youtube app, but has no tracking, no ads and don't require google play services
+
+#### <a href="https://newpipe.schabi.org/"> New pipe </a>
+New pipe is a front end application to access youtube. It has a brand new interface, has no tracking, no ads and is open source. It's blazing fast, and allows you to download videos or just the audio.
 
 
 
